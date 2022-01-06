@@ -8,7 +8,7 @@ const Course = (props) => {
     return (
         <div id="link_container">
             {props.links.map((link) => {
-                return <Button as="a" href={link.to} target="_blank" key="" className='link animate__bounceIn animate__faster'>{link.text}</Button>
+                return <Button as="a" href={link.to} target="_blank" key={link.to} className='link animate__bounceIn animate__faster'>{link.text}</Button>
             })}
         </div>
     )

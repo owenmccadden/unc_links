@@ -22,6 +22,10 @@ const Econ485 = () => {
                     {
                         text: "Sakai",
                         to: "https://sakai.unc.edu/portal/site/e7a457be-cc48-4a6b-b0a5-ab8e5a21243e"
+                    },
+                    {
+                        text: "Gradescope",
+                        to: "https://www.gradescope.com/courses/351170"
                     }
                 ]}
             />

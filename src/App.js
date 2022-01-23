@@ -16,7 +16,6 @@ function App() {
       <Route path="/comp-421" element={<Comp421/>}/>
       <Route path="/comp-555" element={<Comp555/>}/>
       <Route path="/comp-590" element={<Comp590/>}/>
-      <Route path="/econ-460" element={<Econ460/>}/>
       <Route path="/econ-485" element={<Econ485/>}/>
     </Routes>
   );

@@ -4,7 +4,6 @@ import NavBar from './Components/NavBar';
 import Comp421 from './Routes/Comp421';
 import Comp555 from './Routes/Comp555';
 import Comp590 from './Routes/Comp590';
-import Econ460 from './Routes/Econ460';
 import Econ485 from './Routes/Econ485';
 import Home from './Routes/Home';
 

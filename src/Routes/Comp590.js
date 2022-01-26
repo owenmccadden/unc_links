@@ -26,6 +26,10 @@ const Comp590 = () => {
                     {
                         text: "Zoom",
                         to: "https://unc.zoom.us/j/96230557166?pwd=bEZnMmg0UFgzS0YwWGJUUG1icG12dz09"
+                    },
+                    {
+                        text: "Google Drive",
+                        to: "https://drive.google.com/drive/folders/1v6lMTc_CIusjxufZpzOqlgzgNhPKCa4t"
                     }
                 ]}
             />

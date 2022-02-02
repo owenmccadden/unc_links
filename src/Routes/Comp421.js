@@ -22,6 +22,10 @@ const Comp421 = () => {
                     {
                         text: "Piazza",
                         to: "https://piazza.com/class/ky6anz9ocho50m?cid=9"
+                    },
+                    {
+                        text: "Sakai",
+                        to: "https://sakai.unc.edu/portal/site/3f59b621-c2ed-4988-bccd-583cc4f8aaea"
                     }
                 ]}
             />

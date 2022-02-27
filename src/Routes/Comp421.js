@@ -26,6 +26,14 @@ const Comp421 = () => {
                     {
                         text: "Sakai",
                         to: "https://sakai.unc.edu/portal/site/3f59b621-c2ed-4988-bccd-583cc4f8aaea"
+                    },
+                    {
+                        text: "MySQL Hosting",
+                        to: "https://www.freemysqlhosting.net/"
+                    },
+                    {
+                        text: "PHP My Admin",
+                        to: "https://www.phpmyadmin.co/"
                     }
                 ]}
             />

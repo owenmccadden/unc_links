@@ -16,16 +16,19 @@ const NavBar = () => {
             <Navbar.Collapse>
                 <Nav>
                     <Nav.Item>
-                        <Nav.Link as={Link} to="/comp-421">Comp 421</Nav.Link>
+                        <Nav.Link as={Link} to="/geol-101">Geol 101</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Nav.Link as={Link} to="/comp-555">Comp 555</Nav.Link>
+                        <Nav.Link as={Link} to="/arth-387">Arth 387</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Nav.Link as={Link} to="/comp-590">Comp 590</Nav.Link>
+                        <Nav.Link as={Link} to="/econ-411">Econ 411</Nav.Link>
                     </Nav.Item> 
                     <Nav.Item>
-                        <Nav.Link as={Link} to="/econ-485">Econ 485</Nav.Link>
+                        <Nav.Link as={Link} to="/lfit-113">LFIT 113</Nav.Link>
+                    </Nav.Item>
+                    <Nav.Item>
+                        <Nav.Link as={Link} to="/comp-495">Comp 495</Nav.Link>
                     </Nav.Item>
                 </Nav>
             </Navbar.Collapse>

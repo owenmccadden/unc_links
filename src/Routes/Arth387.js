@@ -17,7 +17,7 @@ const Comp421 = () => {
                     },
                     {
                         text: "Syllabus",
-                        to: "https://sakai.unc.edu/access/content/attachment/8a9e886a-f4ae-4dad-818d-2e858cda6eda/Syllabus/f3a66b52-0688-4382-bd93-0241eb7598ac/ARTH%20387%20AAAD%20330%20Syllabus%20rev%2008%2016.pdf"
+                        to: "https://sakai.unc.edu/access/content/attachment/8a9e886a-f4ae-4dad-818d-2e858cda6eda/Syllabus/f1ed9e08-a90c-4b8f-a05f-346c5e386ebe/ARTH%20387%20AAAD%20330%20Syllabus%20rev%2009%2028.pdf"
                     },
                     {
                         text: "Twitter",

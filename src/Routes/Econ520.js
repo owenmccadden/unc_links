@@ -12,8 +12,16 @@ const Econ520 = () => {
             <Course
                 links={[
                     {
-                        text: "Syllabus",
-                        to: "https://sakai.unc.edu/access/lessonbuilder/item/3325025/group/e7a457be-cc48-4a6b-b0a5-ab8e5a21243e/Syllabus/Syllabus%20for%20ECON%20485.002.pdf"
+                        text: "Course Website",
+                        to: "https://lhendricks.org/econ520/econ520.html"
+                    },
+                    {
+                        text: "Canvas",
+                        to: "https://uncch.instructure.com/courses/15535"
+                    },
+                    {
+                        text: "Macro Models",
+                        to: "https://drive.google.com/drive/u/0/folders/1F-jqaKdL4cHq8wp4Dn_DySyZhjjIKRO1"
                     }
                 ]}
             />

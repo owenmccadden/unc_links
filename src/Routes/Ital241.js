@@ -16,7 +16,7 @@ const Ital241 = () => {
                         to: "https://sakai.unc.edu/portal/site/0decf497-a84c-4a13-92f0-bc9e77239a0e"
                     },
                     {
-                        text: "Sakai",
+                        text: "Syllabus",
                         to: "https://sakai.unc.edu/access/content/attachment/0decf497-a84c-4a13-92f0-bc9e77239a0e/Syllabus/ba293d1c-2c64-4fb9-99f3-57b73b68383e/Ital%20241%20Spring%202023%20Veneri%20syllabus.pdf"
                     },
                     {
